@@ -1,0 +1,29 @@
+{
+  "name": "rogue",
+  "version": "0.1.0",
+  "description": "Learning TDD, design patterns and advanced TS through the legendary Rogue videogame",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jseto/rogue.git"
+  },
+  "keywords": [
+    "videogame",
+    "teaching",
+    "TDD",
+    "design",
+    "patterns",
+    "TS",
+    "legendary",
+    "games"
+  ],
+  "author": "Josep Seto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jseto/rogue/issues"
+  },
+  "homepage": "https://github.com/jseto/rogue#readme"
+}
